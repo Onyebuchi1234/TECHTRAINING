@@ -1,0 +1,1 @@
+During the HTTP class, we delved into the Hypertext Transfer Protocol, which is fundamental to web communication. We covered the request-response model, HTTP methods (GET, POST, etc.), status codes, and headers. Understanding HTTP is crucial for building and interacting with web applications.

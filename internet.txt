@@ -1,0 +1,1 @@
+In the Internet class, we covered the fundamental concepts of how the internet works. We discussed the architecture, protocols, and the role of various entities like ISPs and DNS servers. Additionally, we explored the concepts of IP addresses, domain names, and the difference between IPv4 and IPv6.

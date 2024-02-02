@@ -1,0 +1,1 @@
+In the GitHub class, we explored the popular platform for hosting Git repositories. Topics included creating a GitHub account, cloning repositories, creating branches, making pull requests, and collaborating with others. GitHub provides a powerful environment for team collaboration and open-source contributions.
